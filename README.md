@@ -1,4 +1,4 @@
-# 🤖 AI Personal Assistant — AWS Workshop
+# 🤖 AI Personal Assistant 
 
 > Build a fully functional AI Personal Assistant using **Amazon Bedrock**, **AWS Lambda**, **DynamoDB**, and **API Gateway** — in just 3 days!
 
