@@ -136,13 +136,7 @@ cd ai-personal-assistant
 
 ---
 
-## 🙌 Workshop Credits
 
-Built with ❤️ during the **AWS AI Developer Workshop**
-
-**Technologies:** Amazon Bedrock · AWS Lambda · DynamoDB · API Gateway · S3
-
----
 
 ## 📄 License
 
