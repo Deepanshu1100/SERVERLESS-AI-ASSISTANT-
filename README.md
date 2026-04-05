@@ -33,11 +33,6 @@ Response returned to User
 
 ## 📅 Workshop Structure
 
-| Day | Theme | What You Build |
-|-----|-------|----------------|
-| **Day 1** | Foundation | Lambda function that calls Amazon Bedrock (Claude AI) |
-| **Day 2** | Backend | DynamoDB chat history + REST API via API Gateway |
-| **Day 3** | Frontend & Deploy | Chat UI deployed live on AWS S3 |
 
 ---
 
